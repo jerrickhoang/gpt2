@@ -1,2 +1,2 @@
 # gpt2
-Implement GPT2 from scratch
+Following Karpathy's video to implement GPT2 from scratch
